@@ -1,5 +1,5 @@
 {
-  "name": "gl-avatar-threejs",
+  "name": "gltf-avatar-threejs",
   "version": "0.0.1",
   "description": "threejs viewer supporting gl avatar",
   "main": "index.js",
@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shrekshao/gl-avatar-threejs.git"
+    "url": "git+https://github.com/shrekshao/gltf-avatar-threejs.git"
   },
   "author": "shrekshao",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/shrekshao/gl-avatar-threejs/issues"
+    "url": "https://github.com/shrekshao/gltf-avatar-threejs/issues"
   },
-  "homepage": "https://github.com/shrekshao/gl-avatar-threejs#readme",
+  "homepage": "https://github.com/shrekshao/gltf-avatar-threejs#readme",
   "dependencies": {
     "css-loader": "^0.28.7",
     "dat.gui": "^0.7.2",
@@ -35,8 +35,8 @@
     "fs-extra": "^5.0.0",
     "path": "^0.12.7",
     "pngjs": "^3.3.2",
-    "webpack": "^3.8.1",
+    "webpack": "~3.8.1",
     "webpack-cli": "^3.3.0",
-    "webpack-dev-server": "^3.1.11"
+    "webpack-dev-server": "^2.9.1"
   }
 }
